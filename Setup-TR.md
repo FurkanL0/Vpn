@@ -64,6 +64,17 @@ chmod +x openvpn-install.sh
 
 ##### Enter'e basıyoruz - onaylıyoruz.
 
+![resim](https://github.com/user-attachments/assets/f23dce74-246f-4097-9a40-dc62ebd8cbd4)
+
+##### İndirmeleri yapacak.
+
+![resim](https://github.com/user-attachments/assets/d367ba68-47fb-44cb-980f-c0470ba28247)
+
+##### Bu soruyu sorar ise 1 yazıp enterliyoruz.
+
+![resim](https://github.com/user-attachments/assets/8a357169-da50-4480-845a-2f5f4cd85a99)
+
+##### 
 
 
 
