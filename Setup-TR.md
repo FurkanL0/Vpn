@@ -24,3 +24,35 @@ chmod +x openvpn-install.sh
 ```bash
 ./openvpn-install.sh
 ```
+
+#### Kurulum Başladı : 
+
+![resim](https://github.com/user-attachments/assets/763ae24c-f71c-4982-8ccc-1778f9b48378)
+
+##### İp Adresimiz gözükecek - enterliyoruz.
+
+![resim](https://github.com/user-attachments/assets/1093897c-8909-4bdd-b0ac-1768b40374e4)
+
+##### İPV6 Desteği istiyormusunuz ? soruyor biz "n"'yi enterliyoruz. Hayır.
+
+![resim](https://github.com/user-attachments/assets/82dbf92a-9bb7-43fe-b6c5-f004b93e5645)
+
+##### Port Seçeneği soruyor - Ben Custom için 1'i silip 2 yazıyorum Enterliyoruz.
+
+![resim](https://github.com/user-attachments/assets/9eb2bf40-0b4f-4ea6-8607-16234cc6bdd2)
+
+##### Portumu 443 yapıp enterliyorum.
+
+![resim](https://github.com/user-attachments/assets/11fbfda1-eee9-4529-810d-d68275739661)
+
+##### UDP'mi TCP'mi ? diye soruyor protokol olarak. UDP daha hızlı udp seçiyoruz. 1.
+
+![resim](https://github.com/user-attachments/assets/b4b9ef2a-1145-43f1-94bd-21e6bc03cadd)
+
+##### DNS Seçimi yaptırıyor. 9. Google'ı seçiyoruz.
+
+![resim](https://github.com/user-attachments/assets/cb544c7d-bc05-4b33-bcf0-1343481bbea6)
+
+##### N yazıp enterliyoruz.
+
+
