@@ -86,9 +86,9 @@ chmod +x openvpn-install.sh
 ##### Artık VPN'inimiz hazır - ls ile dosyaları listeleyin xxx.ovpn dosyası oluştu.
 ##### Sunucunuzdan bu dosyayı SFTP İle alabilirsiniz. İstediğiniz server'a yada SFTP ile istediğiniz yere yollayabilirsiniz.
 
-## Telefon / Windows / Mac / Apple : 
+## Telefon / Windows / Mac / İphone : 
 
-- Telefon uygulamasını indirip SFTP ile aldığımız dosyayı bu kısma yüklüyoruz sonra connect'e basıp bağlanıyoruz.
+- Android / Winodws / Mac / İphone uygulamasını indirip SFTP ile aldığımız dosyayı bu kısma yüklüyoruz sonra connect'e basıp bağlanıyoruz.
 
 
 ![resim](https://github.com/user-attachments/assets/4a6d745e-40e1-4c3f-8923-1bebad759229)
