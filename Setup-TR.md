@@ -72,9 +72,10 @@ chmod +x openvpn-install.sh
 
 ##### Bu soruyu sorar ise 1 yazıp enterliyoruz.
 
-![resim](https://github.com/user-attachments/assets/8a357169-da50-4480-845a-2f5f4cd85a99)
+![resim](https://github.com/user-attachments/assets/8fbf22d3-692d-42bb-b2a7-8d9fe51ad76d)
 
-##### 
+
+##### Burada Client'e isim veriyoruz ben sunucu lokasyonu ismi verdim HongKong - sonra enterliyoruz.
 
 
 
