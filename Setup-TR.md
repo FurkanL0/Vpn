@@ -56,3 +56,14 @@ chmod +x openvpn-install.sh
 ##### N yazıp enterliyoruz.
 
 
+![resim](https://github.com/user-attachments/assets/1f5d9bf1-c831-4187-9a73-bf2056b0bfda)
+
+##### N yazıp enterliyoruz.
+
+![resim](https://github.com/user-attachments/assets/b52a48bc-3b9f-46ca-8864-5e6cb34352c3)
+
+##### Enter'e basıyoruz - onaylıyoruz.
+
+
+
+
