@@ -77,5 +77,17 @@ chmod +x openvpn-install.sh
 
 ##### Burada Client'e isim veriyoruz ben sunucu lokasyonu ismi verdim HongKong - sonra enterliyoruz.
 
+![resim](https://github.com/user-attachments/assets/3989ff07-769e-4892-b5dc-107713b6e042)
+
+##### 1.yi Seçip enterliyoruz.
+
+![resim](https://github.com/user-attachments/assets/c7fbddc9-343a-4f3c-8479-148d8cb16743)
+
+##### Artık VPN'inimiz hazır - ls ile dosyaları listeleyin xxx.ovpn dosyası oluştu.
+##### Sunucunuzdan bu dosyayı SFTP İle alabilirsiniz. İstediğiniz server'a yada SFTP ile istediğiniz yere yollayabilirsiniz.
+
+
+
+
 
 
