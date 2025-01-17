@@ -110,7 +110,9 @@ sudo openvpn --config client.ovpn
 
 - Now your VPN will work. You can exit the screen with CTRL A + D.
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=brightgreen&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
+</p>
 
 
 
